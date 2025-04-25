@@ -25,3 +25,18 @@ print(f'ambos lados: {name.strip()}')
 filename = 'python_notes.txt'
 print(f'Remove Sulfixo: {filename.removesuffix(".txt")}')
 print(f'Remove prefixo: {filename.removeprefix("python_")}')
+
+# 2.9
+print(6+2)
+print(11-3)
+print(2*4)
+print(24//3)
+
+# 2.10
+favorite_number = '5'
+print(f'My favorite number are: {favorite_number}')
+
+#2.11
+'''
+Inserindo comentários em um programa!
+'''
