@@ -43,5 +43,5 @@ print()
 print(convidados)
 print('==='* 40)
 # removendo o restante com o Del
-del convidados[:2]
+del convidados[:2]# exclui o 0 e o 1, nunca remove o setado/ultimo, no caso 2
 print(f'Lista vazia: {convidados}')
